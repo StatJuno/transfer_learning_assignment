@@ -30,5 +30,3 @@ Step 4.
 Week_05/
 ├── transfer_learning.ipynb
 └── .gitignore
-
-

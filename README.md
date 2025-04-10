@@ -24,3 +24,4 @@ Week_05/
 ├── transfer_learning.ipynb
 └── .gitignore
 ```
+다들 화이팅!
